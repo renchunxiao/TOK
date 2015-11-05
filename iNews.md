@@ -1,6 +1,5 @@
 | title   | url  |
 |:--|:--|
-iNews开发、部署|http://gitlab.corp.qunar.com/quan.luo/inews/blob/master/doc/GetInvoved.md
 《Go Web 编程》开源书|https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md
 IoC/DIP其实是一种管理思想|http://coolshell.cn/?s=ioc
 程序员如何做到「编程速度又快，Bug 数量又少」？|http://jjyy.guru/how-fewer-bugs/
@@ -135,7 +134,6 @@ shell字符串处理|https://blog.linuxeye.com/390.html
 理解Linux Load AVG|http://www.ruanyifeng.com/blog/2011/07/linux_load_average_explained.html
 Linux Load AVG编程竞赛|http://timyang.net/programming/load-average/
 Java 编程的动态性，第 1 部分: 类和类装入|http://www.ibm.com/developerworks/cn/java/j-dyn0429/
-QunarHttpClient默认支持gzip实现方式|http://gitlab.corp.qunar.com/mobile/hotel_tts/snippets/91
 可伸缩系统的架构经验 - 逸言|http://agiledon.github.io/blog/2013/02/27/scalability-system-architecture-lessons/
 jvm troubleshooting - David Wu|http://wiki.corp.qunar.com/download/attachments/1049335/JVM+troubleshooting.ppt?version=1&modificationDate=1273060484000
 深入JVM锁机制之一：synchronized - 51CTO.COM|http://developer.51cto.com/art/201111/304378.htm
